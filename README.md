@@ -23,9 +23,7 @@ ChatGPT：
 
 Canva：
 
-- No Canva, foi utilizada a função que gera imagens a partir de prompts. Os termos de pesquisa utilizados foram:
-
-• ChatBot
+- No Canva, foi utilizada a função que gera imagens a partir de prompts. Os termos de pesquisa utilizados foram: ChatBot
 
 ## ✨ Features
 
