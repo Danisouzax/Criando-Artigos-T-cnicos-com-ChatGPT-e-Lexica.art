@@ -3,7 +3,7 @@
 
  > ℹ️ **NOTE:** Este projeto foi desenvolvido como parte do curso de Fundamentos de IA para Devs [DIO](https://dio.me), visando criar prompts úteis para facilitar o cotidiano. Representa uma excelente iniciativa para aplicar os conhecimentos adquiridos e demonstrar como a inteligência artificial pode aprimorar diversos aspectos.
 
-rojeto com o objetivo de criar um artigo técnico que apresente um layout atrativo, com leitura fluída e focado em promover sua autoridade no assunto.
+Projeto com o objetivo de criar um artigo técnico que apresente um layout atrativo, com leitura fluída e focado em promover sua autoridade no assunto.
 
 <a href="https://web.dio.me/articles/como-chatbot-podem-revolucionar-sua-empresa-5-principais-vantagens?back=%2Farticles&open-modal=true&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
 
